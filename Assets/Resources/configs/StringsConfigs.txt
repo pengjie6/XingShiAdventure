@@ -1,0 +1,11 @@
+Keys	Description	English	French	Russian	Spanish
+txt_english		简体中文	简体中文	简体中文	简体中文
+txt_french		简体中文	简体中文	简体中文	简体中文
+txt_settingsTitle		设置	设置	设置	设置
+txt_settingsLanguage		语言	语言	语言	语言
+txt_settingsContact		联系我们	联系我们	联系我们	联系我们
+txt_settingsPromo		兑换码	兑换码	兑换码	兑换码
+txt_settingsResetGame		重置游戏	重置游戏	重置游戏	重置游戏
+txt_settingsMusic		音乐	音乐	音乐	音乐
+txt_settingsSoundFX		音效	音效	音效	音效
+txt_settingsBattery		省电\n模式	省电\n模式	省电\n模式	省电\n模式
