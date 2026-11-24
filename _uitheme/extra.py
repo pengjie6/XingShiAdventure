@@ -9,8 +9,10 @@ import build as B
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-WKIND = {"01": "sword", "02": "dagger", "03": "axe", "04": "bow", "04Bomb": "bomb",
-         "05": "staff", "06": "hammer", "07": "spear", "08": "scythe", "09": "mace"}
+# !! 已废弃：这套映射与 WeaponConfigs 的真实武器名不符（导致 02 铁锤画成剑）。
+# 武器图标请统一用 icons.py 生成（它直接取局内 weapon0X.png，形状 100% 一致）。
+WKIND = {"01": "sword", "02": "hammer", "03": "bow", "04": "fist", "04Bomb": "bomb",
+         "05": "axe", "06": "spear", "07": "handaxe", "08": "mace", "09": "kunai"}
 
 
 def bomb(d, w, h, ow):

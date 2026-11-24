@@ -68,7 +68,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["mushroom"] = new MonsterConfig
 		{
 			Id = "mushroom",
-			Name = "菌灯小妖",
+			Name = "幽光蘑菇",
 			DamageMin = 10,
 			DamageMax = 16,
 			HP = 20,
@@ -91,7 +91,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["woodlog"] = new MonsterConfig
 		{
 			Id = "woodlog",
-			Name = "沉木傀影",
+			Name = "老木影怪",
 			DamageMin = 14,
 			DamageMax = 22,
 			HP = 35,
@@ -114,7 +114,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["acorn"] = new MonsterConfig
 		{
 			Id = "acorn",
-			Name = "棘壳橡卫",
+			Name = "橡果精灵",
 			DamageMin = 10,
 			DamageMax = 28,
 			HP = 52,
@@ -137,7 +137,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["chest"] = new MonsterConfig
 		{
 			Id = "chest",
-			Name = "奇境宝匣",
+			Name = "奇境宝箱",
 			DamageMin = 0,
 			DamageMax = 0,
 			HP = 15,
@@ -161,7 +161,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["chestLocked"] = new MonsterConfig
 		{
 			Id = "chestLocked",
-			Name = "尘封秘匣",
+			Name = "封存秘箱",
 			DamageMin = 0,
 			DamageMax = 0,
 			HP = 1,
@@ -180,7 +180,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["chestPub"] = new MonsterConfig
 		{
 			Id = "chestPub",
-			Name = "荒野遗匣",
+			Name = "沙地木箱",
 			DamageMin = 0,
 			DamageMax = 0,
 			HP = 1,
@@ -201,7 +201,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["chestSmall"] = new MonsterConfig
 		{
 			Id = "chestSmall",
-			Name = "玲珑小匣",
+			Name = "细致小箱",
 			DamageMin = 0,
 			DamageMax = 0,
 			HP = 30,
@@ -223,7 +223,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["chestMedium"] = new MonsterConfig
 		{
 			Id = "chestMedium",
-			Name = "沉甸宝匣",
+			Name = "大号宝箱",
 			DamageMin = 0,
 			DamageMax = 0,
 			HP = 50,
@@ -245,7 +245,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["chestBig"] = new MonsterConfig
 		{
 			Id = "chestBig",
-			Name = "巨硕宝匣",
+			Name = "巨型宝箱",
 			DamageMin = 0,
 			DamageMax = 0,
 			HP = 90,
@@ -267,7 +267,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["strawberry"] = new MonsterConfig
 		{
 			Id = "strawberry",
-			Name = "霜莓精",
+			Name = "红莓小怪",
 			DamageMin = 16,
 			DamageMax = 18,
 			HP = 65,
@@ -290,7 +290,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["dragon"] = new MonsterConfig
 		{
 			Id = "dragon",
-			Name = "幽鳞古龙",
+			Name = "青火巨龙",
 			DamageMin = 16,
 			DamageMax = 44,
 			HP = 86,
@@ -314,7 +314,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["skeleton"] = new MonsterConfig
 		{
 			Id = "skeleton",
-			Name = "白骨游魂",
+			Name = "灰白死灵",
 			DamageMin = 15,
 			DamageMax = 24,
 			HP = 30,
@@ -337,7 +337,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["snake"] = new MonsterConfig
 		{
 			Id = "snake",
-			Name = "月斑蛇",
+			Name = "月光蛇",
 			DamageMin = 24,
 			DamageMax = 66,
 			HP = 129,
@@ -360,7 +360,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["spider"] = new MonsterConfig
 		{
 			Id = "spider",
-			Name = "织影蛛",
+			Name = "暗影毒蛛",
 			DamageMin = 21,
 			DamageMax = 33,
 			HP = 52,
@@ -384,7 +384,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["ghost"] = new MonsterConfig
 		{
 			Id = "ghost",
-			Name = "夜哭幽魂",
+			Name = "林间幽灵",
 			DamageMin = 15,
 			DamageMax = 42,
 			HP = 78,
@@ -407,7 +407,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["eye"] = new MonsterConfig
 		{
 			Id = "eye",
-			Name = "窥月之眼",
+			Name = "望月之眼",
 			DamageMin = 24,
 			DamageMax = 27,
 			HP = 98,
@@ -431,7 +431,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["fishman"] = new MonsterConfig
 		{
 			Id = "fishman",
-			Name = "深潮鱼人",
+			Name = "池沼鱼人",
 			DamageMin = 23,
 			DamageMax = 36,
 			HP = 45,
@@ -477,7 +477,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["mushroomToxic"] = new MonsterConfig
 		{
 			Id = "mushroomToxic",
-			Name = "蚀毒菌灵",
+			Name = "幽毒蘑菇",
 			DamageMin = 36,
 			DamageMax = 55,
 			HP = 132,
@@ -501,7 +501,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["salamander"] = new MonsterConfig
 		{
 			Id = "salamander",
-			Name = "焰脊火蜥",
+			Name = "烈火蜥蜴",
 			DamageMin = 23,
 			DamageMax = 63,
 			HP = 117,
@@ -524,7 +524,7 @@ public class MonsterConfigs : Configs<MonsterConfigs>
 		_configs["frog"] = new MonsterConfig
 		{
 			Id = "frog",
-			Name = "沼鸣青蛤",
+			Name = "池边青蛙",
 			DamageMin = 36,
 			DamageMax = 41,
 			HP = 146,

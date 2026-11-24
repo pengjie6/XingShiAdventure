@@ -52,7 +52,7 @@ MonoBehaviour:
   NativeWhiteListRegex:
   - com.bytedance.starksdk
   - _Backup~
-  _appId: tt9598e3250be502e307
+  _appId: tt3f1d49a0a16392dd02
   version: 
   autoVersion: 0
   _webglPackagePath: "E:\\unitystudy\\project\\Unity2018_\u5C0F\u5C0FRPG_MicroRPG\\Unity2018_\u5C0F\u5C0FRPG_MicroRPG\\Unity2018_\u5C0F\u5C0FRPG_MicroRPG\\tt-minigame\\tt-minigame"

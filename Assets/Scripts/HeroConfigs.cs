@@ -13,7 +13,7 @@ public class HeroConfigs : Configs<HeroConfigs>
 		_configs["hero00"] = new HeroConfig
 		{
 			Id = "hero00",
-			Name = "提奥巴德",
+			Name = "卡林德尔",
 			HpMaxBase = 60,
 			HpLevelUpPriceVariant = 100,
 			MissRate = 0.08f
