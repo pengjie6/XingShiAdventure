@@ -207,7 +207,7 @@ public class UIMenuSettingsPanel : UIMenuPopup
 	private void OnContactUsClicked()
 	{
 		string str = "%0D%0A%0D%0A%0D%0A版本: " + Application.version + "%0D%0AID: " + GetUID() + "%0D%0A设备: " + SystemInfo.deviceModel + "%0D%0A系统: " + SystemInfo.operatingSystem;
-		string text = "?subject=星石休闲历险 问题反馈&body=" + str;
+		string text = "?subject=闯越奇境解锁征途 问题反馈&body=" + str;
 		string url = "mailto:dhamelin@gmail.com" + text.Replace(" ", "%20");
 		Application.OpenURL(url);
 	}

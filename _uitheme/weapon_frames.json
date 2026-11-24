@@ -1,0 +1,327 @@
+{
+ "weapon01": {
+  "path": "Assets/Resources/weapons/weapon01/weapon01.png",
+  "size": [
+   71,
+   113
+  ],
+  "bbox": [
+   2,
+   1,
+   69,
+   110
+  ]
+ },
+ "weapon01b": {
+  "path": "Assets/Resources/weapons/weapon01/weapon01b.png",
+  "size": [
+   71,
+   83
+  ],
+  "bbox": [
+   2,
+   1,
+   69,
+   80
+  ]
+ },
+ "weapon02": {
+  "path": "Assets/Resources/weapons/weapon02/weapon02.png",
+  "size": [
+   103,
+   103
+  ],
+  "bbox": [
+   2,
+   1,
+   101,
+   100
+  ]
+ },
+ "weapon02b": {
+  "path": "Assets/Resources/weapons/weapon02/weapon02b.png",
+  "size": [
+   87,
+   104
+  ],
+  "bbox": [
+   2,
+   1,
+   85,
+   101
+  ]
+ },
+ "weapon03": {
+  "path": "Assets/Resources/weapons/weapon03/weapon03.png",
+  "size": [
+   69,
+   131
+  ],
+  "bbox": [
+   2,
+   1,
+   67,
+   128
+  ]
+ },
+ "weapon03b": {
+  "path": "Assets/Resources/weapons/weapon03/weapon03b.png",
+  "size": [
+   69,
+   131
+  ],
+  "bbox": [
+   2,
+   1,
+   67,
+   128
+  ]
+ },
+ "weapon03c": {
+  "path": "Assets/Resources/weapons/weapon03/weapon03c.png",
+  "size": [
+   127,
+   37
+  ],
+  "bbox": [
+   2,
+   1,
+   125,
+   34
+  ]
+ },
+ "weapon03cb": {
+  "path": "Assets/Resources/weapons/weapon03/weapon03cb.png",
+  "size": [
+   118,
+   55
+  ],
+  "bbox": [
+   2,
+   1,
+   115,
+   51
+  ]
+ },
+ "weapon04": {
+  "path": "Assets/Resources/weapons/weapon04/weapon04.png",
+  "size": [
+   87,
+   79
+  ],
+  "bbox": [
+   2,
+   1,
+   85,
+   76
+  ]
+ },
+ "weapon04Bomb": {
+  "path": "Assets/Resources/weapons/weapon04bomb/weapon04Bomb.png",
+  "size": [
+   88,
+   91
+  ],
+  "bbox": [
+   2,
+   1,
+   86,
+   88
+  ]
+ },
+ "weapon04b": {
+  "path": "Assets/Resources/weapons/weapon04/weapon04b.png",
+  "size": [
+   99,
+   74
+  ],
+  "bbox": [
+   2,
+   1,
+   97,
+   71
+  ]
+ },
+ "weapon04bBomb": {
+  "path": "Assets/Resources/weapons/weapon04bomb/weapon04bBomb.png",
+  "size": [
+   88,
+   91
+  ],
+  "bbox": [
+   2,
+   1,
+   86,
+   88
+  ]
+ },
+ "weapon05": {
+  "path": "Assets/Resources/weapons/weapon05/weapon05.png",
+  "size": [
+   109,
+   113
+  ],
+  "bbox": [
+   2,
+   1,
+   107,
+   110
+  ]
+ },
+ "weapon05b": {
+  "path": "Assets/Resources/weapons/weapon05/weapon05b.png",
+  "size": [
+   109,
+   113
+  ],
+  "bbox": [
+   2,
+   1,
+   107,
+   110
+  ]
+ },
+ "weapon06": {
+  "path": "Assets/Resources/weapons/weapon06/weapon06.png",
+  "size": [
+   69,
+   135
+  ],
+  "bbox": [
+   2,
+   1,
+   67,
+   132
+  ]
+ },
+ "weapon06b": {
+  "path": "Assets/Resources/weapons/weapon06/weapon06b.png",
+  "size": [
+   69,
+   109
+  ],
+  "bbox": [
+   2,
+   1,
+   67,
+   106
+  ]
+ },
+ "weapon07": {
+  "path": "Assets/Resources/weapons/weapon07/weapon07.png",
+  "size": [
+   81,
+   85
+  ],
+  "bbox": [
+   2,
+   1,
+   79,
+   82
+  ]
+ },
+ "weapon07b": {
+  "path": "Assets/Resources/weapons/weapon07/weapon07b.png",
+  "size": [
+   81,
+   85
+  ],
+  "bbox": [
+   2,
+   1,
+   79,
+   82
+  ]
+ },
+ "weapon08": {
+  "path": "Assets/Resources/weapons/weapon08/weapon08.png",
+  "size": [
+   80,
+   123
+  ],
+  "bbox": [
+   2,
+   1,
+   78,
+   120
+  ]
+ },
+ "weapon08b": {
+  "path": "Assets/Resources/weapons/weapon08/weapon08b.png",
+  "size": [
+   68,
+   122
+  ],
+  "bbox": [
+   2,
+   1,
+   66,
+   119
+  ]
+ },
+ "weapon09": {
+  "path": "Assets/Resources/weapons/weapon09/weapon09.png",
+  "size": [
+   60,
+   106
+  ],
+  "bbox": [
+   3,
+   1,
+   58,
+   102
+  ]
+ },
+ "weapon09_blur": {
+  "path": "Assets/Resources/weapons/weapon09/weapon09_blur.png",
+  "size": [
+   120,
+   112
+  ],
+  "bbox": [
+   4,
+   1,
+   116,
+   109
+  ]
+ },
+ "weapon09_d1": {
+  "path": "Assets/Resources/weapons/weapon09/weapon09_d1.png",
+  "size": [
+   61,
+   91
+  ],
+  "bbox": [
+   2,
+   1,
+   59,
+   87
+  ]
+ },
+ "weapon09_hit": {
+  "path": "Assets/Resources/weapons/weapon09/weapon09_hit.png",
+  "size": [
+   75,
+   63
+  ],
+  "bbox": [
+   2,
+   1,
+   73,
+   60
+  ]
+ },
+ "weapon09b": {
+  "path": "Assets/Resources/weapons/weapon09/weapon09b.png",
+  "size": [
+   61,
+   91
+  ],
+  "bbox": [
+   2,
+   1,
+   59,
+   87
+  ]
+ }
+}

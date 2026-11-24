@@ -33,7 +33,7 @@ public class GameLogoOverlay : MonoBehaviour
     private const string PlayButtonName = "ButtonPlay";
 
     /// <summary>Logo 高度占画布高度的比例（画布按高度匹配，所以这个比例跨机型稳定）。</summary>
-    private const float HomeHeightRatio = 0.175f;
+    private const float HomeHeightRatio = 0.20f;
 
     /// <summary>Logo 底边与播放键顶边之间留的空隙（占画布高度）。</summary>
     private const float HomeGapRatio = 0.018f;
